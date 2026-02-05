@@ -1,10 +1,10 @@
-# Structure-Based Drug Design on a Laptop: a Workshop on Google Colab
+# Structure-Based Drug Design on a Laptop: a Hands-On Workshop
 
 A series of Jupyter notebooks and notes for a 3-day hands-on workshop held at Brooklyn College in January 2026.
 
 ## Learning Objectives
 
-The goal of the workshop is to achieve familiarity with free or online computational modeling tools for structure-based drug design available to all on small computers such as laptops. In addition to the Google Colab computational environment, during the workshop we used molecular viewers and molecular editors (Mol*, Maestro Viewer).
+The goal of the workshop was to achieve familiarity with free or online computational modeling tools for structure-based drug design available to all on small computers such as laptops. In addition to the Google Colab computational environment, we used molecular viewers and molecular editors (Mol*, Maestro Viewer).
 
 Some of the things we learned about:
 
@@ -26,8 +26,8 @@ Each student was given the task to model a pair of related compounds with the ob
 
 Navigate to the [notebooks](notebooks/) folder and open each notebook in sequence. They are numbered from 1 to 6.
 
-1. [Prerequisites and Setup](notebooks/Prerequisites_and_Setup.ipynb), contains some course information and the steps to setup the Google Colab and other software.
-2. [Paper Overview Compound SMILES](notebooks/Paper_Overview_Compound_SMILES.ipynb) goes through the steps to recover the ligands' information from CHEMBL and generate their 2D structures.
+1. [Prerequisites and Setup](notebooks/1_Prerequisites_and_Setup.ipynb), contains some course information and the steps to setup the Google Colab and other software.
+2. [Paper Overview Compound SMILES](notebooks/2_Paper_Overview_Compound_SMILES.ipynb) goes through the steps to recover the ligands' information from CHEMBL and generate their 2D structures.
 3. [Structure Prediction and Preparation](notebooks/3_Structure_Prediction_and_Preparation.ipynb) uses Boltz-2 to generate a structural model of the complex using the protein sequence and the SMILES of the compounds as inputs.
 4. The fourth notebook, [Structure Refinement and Binding Energy Scoring](noteboooks/4_Structure_Refinement_and_Binding_Energy_Scoring.ipynb), goes through the steps of energy-minimizing the Boltz-predicted structures and computing their binding energies in implicit solvent using OpenMM.
 5. [Protein-Ligand MD Analysis](notebooks/5_protein_ligand_md_analysis.ipynb) performs MD of the complex and some structural analysis.
