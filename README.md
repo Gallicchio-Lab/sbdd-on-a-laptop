@@ -35,11 +35,16 @@ Navigate to the [notebooks](notebooks/) folder and open each notebook in sequenc
 
 ## Credits
 
-Developers: Emilio Gallicchio and Joe Z. Wu
+Developers: Emilio Gallicchio and Joe Z. Wu. Additional credits in each notebook.
+
 Instructor: Emilio Gallicchio
+
 Teaching Assistant: Joe Z. Wu
+
 Coordinators: Maria Contel and Ana Bartolome
+
 Funding: the National Cancer Society
+
 Hosting and Support: the Brooklyn College Cancer Center
 
 
