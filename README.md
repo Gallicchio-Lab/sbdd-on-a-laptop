@@ -29,7 +29,7 @@ Navigate to the [notebooks](notebooks/) folder and open each notebook in sequenc
 1. [Prerequisites and Setup](notebooks/1_Prerequisites_and_Setup.ipynb), contains some course information and the steps to setup the Google Colab and other software.
 2. [Paper Overview Compound SMILES](notebooks/2_Paper_Overview_Compound_SMILES.ipynb) goes through the steps to recover the ligands' information from CHEMBL and generate their 2D structures.
 3. [Structure Prediction and Preparation](notebooks/3_Structure_Prediction_and_Preparation.ipynb) uses Boltz-2 to generate a structural model of the complex using the protein sequence and the SMILES of the compounds as inputs.
-4. The fourth notebook, [Structure Refinement and Binding Energy Scoring](noteboooks/4_Structure_Refinement_and_Binding_Energy_Scoring.ipynb), goes through the steps of energy-minimizing the Boltz-predicted structures and computing their binding energies in implicit solvent using OpenMM.
+4. The fourth notebook, [Structure Refinement and Binding Energy Scoring](notebooks/4_Structure_Refinement_and_Binding_Energy_Scoring.ipynb), goes through the steps of energy-minimizing the Boltz-predicted structures and computing their binding energies in implicit solvent using OpenMM.
 5. [Protein-Ligand MD Analysis](notebooks/5_protein_ligand_md_analysis.ipynb) performs MD of the complex and some structural analysis.
 6. Finally, [Alchemical Relative Binding Free Energy](notebooks/6_Alchemical_Relative_Binding_Free_Energy.ipynb) introduces the calculation of the Relative Binding Free Energy of a pair of compounds using the Alchemical Transfer Method (ATM) and the [AToM-OpenMM](https://github.com/Gallicchio-Lab/AToM-OpenMM) software.
 
