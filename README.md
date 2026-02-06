@@ -18,7 +18,7 @@ Some of the things we learned about:
 
 ## Case Study
 
-We followed the paper [Identification of Potent Reverse Indazole Inhibitors for HPK1](https://doi.org/10.1021/acsmedchemlett.0c00672) by Elsie C. Yu and a Merck team in Boston.
+We followed the paper [Identification of Potent Reverse Indazole Inhibitors for HPK1](https://doi.org/10.1021/acsmedchemlett.0c00672) by Elsie C. Yu and a team at Merck (Boston).
 
 Each student was tasked with modeling a pair of related compounds to confirm the energetic and structural characteristics that informed the team of medicinal chemists at Merck. Their work was structure-based, but for the most part, it did not involve advanced molecular modeling.
 
