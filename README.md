@@ -47,4 +47,4 @@ Funding: the National Cancer Society
 
 Hosting and Support: the Brooklyn College Cancer Center
 
-
+[Post on LinkedIn](https://www.linkedin.com/posts/maria-contel-4ba18119b_exciting-first-day-of-a-3-day-15-h-hands-on-activity-7419892259292250112-Jqwp)
